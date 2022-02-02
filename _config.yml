@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+# jekyll主题
+title: IprPlayer
+description: "案例、逻辑及经验"
+logo: https://user-images.githubusercontent.com/98626903/152085751-2e4f293e-eb1a-47ad-b7a8-a74b7efccbec.png
