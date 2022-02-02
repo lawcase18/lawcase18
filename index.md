@@ -1,37 +1,12 @@
 # 案例
 
-You can use the [editor on GitHub](https://github.com/lawcase18/lawcase18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/98861569/152084390-41e6efd7-8a22-4d8c-950b-440ba9f88d10.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> [“法律的生命不在于逻辑，而在于经验”](https://www.zhihu.com/question/53066025/answer/148471947)，是霍姆斯在其代表作《普通法》之中一句名言。但这句话最早并不是出现在这本书里，而是霍姆斯之前对当时哈佛大学法学院院长兰代尔的批评。兰代尔往往被认为是形式主义法学的代表之一，他主张采用科学研究的方法，从一系列案例中提炼出基本的原则或原理，当这些原则原理被确证之后，法律的主要工作就是再将这些原则原理应用于新的案件。霍姆斯批评兰代尔仅仅关注事物之间的关联性（即逻辑），而忽视了外在于法律，但又对法律有深刻影响的因素，而这些因素包括所谓时代需求、道德伦理、政治理论甚至法官偏见。在这些批评中，霍姆斯提出了这句千古名言，后来成就了他的“现实主义法学”。
 
-### Markdown
+这里必须要强调一下，法学中的法谚、警句，重点是其“真理的一面”，而不是将这句话理解为“真理的全部”。霍姆斯的名言虽然贬低了逻辑在法律中的地位，但不是彻底否定逻辑的作用和价值（特别在他那个时代，逻辑一词往往仅仅指三段论）。他对兰代尔的批评，更多的是他们对法律科学有着不同的理解。至于逻辑在法律应该有何地位，只能说，不同学派自有不同主张。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 参考
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lawcase18/lawcase18/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Alt](https://repobeats.axiom.co/api/embed/44b48fd079f2acd226df63bf6762e7868efeee50.svg "Repobeats analytics image")
