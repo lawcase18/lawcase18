@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# 案例
 
 You can use the [editor on GitHub](https://github.com/lawcase18/lawcase18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
