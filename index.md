@@ -912,6 +912,22 @@
 
 这或许是辛普森案，带给我们最大的启示。 
 
+## [杀死一只知更鸟 To Kill a Mockingbird](https://movie.douban.com/subject/1297991/) 
+
+![image](https://user-images.githubusercontent.com/98861569/152295979-26f3e5ab-4de3-425a-b3ba-68b80b95d5b6.png)
+
+## [十二怒汉 12 Angry Men](https://movie.douban.com/subject/1293182/?from=subject-page)
+
+![image](https://user-images.githubusercontent.com/98861569/152296173-4f062446-af43-466d-ac15-30e7f7520e74.png)
+
+## [控方证人 Witness for the Prosecution](https://movie.douban.com/subject/1296141/?from=subject-page) 
+
+![image](https://user-images.githubusercontent.com/98861569/152297472-136bf79e-e88d-44bd-9235-854fe55abdb3.png)
+
+## [罗生门](https://movie.douban.com/subject/1291879/?from=subject-page) 
+
+![image](https://user-images.githubusercontent.com/98861569/152298204-6d6603a0-116c-48c7-971f-e267a38e7ced.png)
+
 ## 参考
 
 1. [平冤計畫──O.J.辛普森案的貢獻（上）](https://opinion.cw.com.tw/blog/profile/195/article/6091) 
@@ -921,5 +937,6 @@
 5. [真探 第一季 True Detective Season 1](https://movie.douban.com/subject/10748120/?from=subject-page)
 6. [绝命毒师 第一季 Breaking Bad Season 1](https://movie.douban.com/subject/2373195/?from=subject-page)
 7. [纸牌屋 第一季 House of Cards Season 1](https://movie.douban.com/subject/6037429/?from=subject-page)
+8. [在家抗疫可以看的 250 部法律电影，附律师超专业推荐](https://mp.weixin.qq.com/s/hiHQ-6rIYU-1ow9zXfl9eg)
 
 ![Alt](https://repobeats.axiom.co/api/embed/44b48fd079f2acd226df63bf6762e7868efeee50.svg "Repobeats analytics image")
